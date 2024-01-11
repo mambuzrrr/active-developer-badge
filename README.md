@@ -10,3 +10,6 @@ You do this with the following command:
 
 [!WARNING]
 The bot is currently in progress, and new packages will be added in the future. Please check this occasionally to stay up to date.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
