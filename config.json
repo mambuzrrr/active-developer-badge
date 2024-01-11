@@ -1,7 +1,7 @@
 {
-    "token": "MTE1ODUzNTM0OTE2NTg4MzQwMg.Gt6AXV.OAx7XDY5Cnr0Z1W3iv6uif-nRkqxVin8fy7FrY",
-    "clientId": "1158535349165883402",
-    "guildId": "980478966689312778",
+    "token": "YOURTOKENHERE",
+    "clientId": "BOTIDHERE",
+    "guildId": "SERVERIDHERE",
     "prefix": "/",
     "modules": [
       "discord.js",
