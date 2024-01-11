@@ -9,6 +9,12 @@ A Discord bot that is updated daily for you. You can use it as is or modify it a
 > [!IMPORTANT]
 > The bot is currently in progress, and new packages will be added in the future. Please check this occasionally to stay up to date.
 
+<details>
+      <summary>Spoiler</summary>
+
+      This Discord Bot can be used to get the Discord Active Developer badge. (if you run the bot, and executed the /help command, wait 24 hours and go to this site: https://discord.com/developers/active-developer)
+</details>
+
 
 # Bot development:
 - We have now written the first functions to make the bot run and respond to a slash command like `/help`.
